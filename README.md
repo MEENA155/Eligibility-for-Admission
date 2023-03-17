@@ -16,6 +16,7 @@ End the program.
 ## Program:
 Register Number: 212221240028
 Name: Meena S
+```
 using System;
 namespace exp1
 
@@ -55,7 +56,7 @@ namespace exp1
         }
     }
  }
-
+```
 
 
 ## Output:
